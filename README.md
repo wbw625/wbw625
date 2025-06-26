@@ -39,7 +39,10 @@ Here are some ideas to get you started:
 
 <p align="center">
 <a href="https://github.com/wbw625/" target="_blank"><img align="center" src="https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white" alt="Github" /></a>
+</p>
 
 ## **Github States:**
 
 ![wbw625's GitHub stats](https://github-readme-stats.vercel.app/api?username=wbw625&show_icons=true&bg_color=00000000)
+
+[![CodeTime Badge](https://img.shields.io/endpoint?style=social&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fv3%2Fusers%2Fshield%3Fuid%3D30632)](https://codetime.dev)
