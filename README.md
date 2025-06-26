@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Programming](https://github.com/wbw625/wbw625/blob/master/assets/Programming.png)
+![Programming](https://raw.githubusercontent.com/wbw625/wbw625/master/assets/Programming.png)
 
 - 😄 My name is Bowen Wang, an undergraduate student from **SJTU** majoring in **Information Security**.
 
