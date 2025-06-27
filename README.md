@@ -45,4 +45,6 @@ Here are some ideas to get you started:
 
 ![wbw625's GitHub stats](https://github-readme-stats.vercel.app/api?username=wbw625&show_icons=true&bg_color=00000000)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wbw625&layout=compact&bg_color=00000000)
+
 [![CodeTime Badge](https://img.shields.io/endpoint?style=social&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fv3%2Fusers%2Fshield%3Fuid%3D30632)](https://codetime.dev)
